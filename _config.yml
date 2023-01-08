@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Yunfang Sun's Page
 author:
-  name: GitHub User
+  name: Yunfang Sun
   email: yunfangsun@proton.me
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -34,10 +34,10 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
+header_pages:
+  - about.md
+  - portfolio.md
+  # Build settings
 theme: minima
 
 plugins:
